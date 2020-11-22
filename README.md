@@ -2,6 +2,11 @@
 
 **Pardon, there is some construction going on here. Check back later for updates.**
 
+My name is Stuart.
+I'm a software engineer at [Texas Instruments](https://www.ti.com/) who writes code to test semiconductors.
+I am also attending Southern Methodist University working on a Master's degree in Data Science.
+Checkout my [data science portfolio](https://sjmiller8182.github.io//portfolio/).
+
 <!--
 **sjmiller8182/sjmiller8182** is a ✨ _special_ ✨ 
 repository because its `README.md` (this file) 
@@ -19,6 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🤔 My interests
+
+* Deep Learning (theory and practice)
+* Natural Language Processing
+* DeepFakes (detection in particular)
+
 ### 🔭 I’m currently working on
 
 * DeepFake Detection
@@ -28,14 +39,13 @@ Here are some ideas to get you started:
 * Deep learning theory
 * Computational Linear Algebra
 
-### 📫 Connect/Follow/Find
+### 📫 Connect/Find/Follow
 
 * [LinkedIn](https://www.linkedin.com/in/stuartjmiller/)
-* [Website](https://github.com/sjmiller8182)
-<!--* [Youtube](https://www.youtube.com/channel/UC4AwOfXYCvG3UC66VQL2tnA/)-->
+* [Website](https://sjmiller8182.github.io/)
 * [Github](https://github.com/sjmiller8182)
 * [StackOverflow](https://stackoverflow.com/users/8088586/s-m)
-
+<!--* [Youtube](https://www.youtube.com/channel/UC4AwOfXYCvG3UC66VQL2tnA/)-->
 
 ### :computer: Tools, Languages, and Frameworks
 
