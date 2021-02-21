@@ -1,11 +1,7 @@
 **Hi there 👋**  Welcome to my github profile!
 
-**Pardon, there is some construction going on here. Check back later for updates.**
-
 My name is Stuart.
-I'm a software engineer at [Texas Instruments](https://www.ti.com/) who writes code to test semiconductors.
-I am also attending Southern Methodist University working on a Master's degree in Data Science.
-Checkout my [data science portfolio](https://sjmiller8182.github.io//portfolio/).
+I'm a machine learning engineer at State Farm Insurence.
 
 <!--
 **sjmiller8182/sjmiller8182** is a ✨ _special_ ✨ 
