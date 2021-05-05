@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 * Deep learning theory
 * Computational Linear Algebra
-* C++
+* Java
 
 ### 📫 Connect/Find/Follow
 
