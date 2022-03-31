@@ -1,7 +1,7 @@
 **Hi there 👋**  Welcome to my github profile!
 
 My name is Stuart.
-I'm a machine learning engineer at State Farm Insurence.
+I'm a machine learning engineer.
 
 <!--
 **sjmiller8182/sjmiller8182** is a ✨ _special_ ✨ 
