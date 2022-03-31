@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 * Natural Language Processing
 * DeepFakes (detection in particular)
 
+<!--
+
 ### 🔭 I’m currently working on
 
 * DeepFake Detection
@@ -33,6 +35,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 
 * AWS
+
+-->
 
 ### 📫 Connect/Find/Follow
 
